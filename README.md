@@ -5,3 +5,6 @@ This is a simple content-based **Movie Recommender System** build using **Python
 
 ## Deployed Application URL
 https://movies-recommender-system-ml-l4fi5l308wl.streamlit.app/
+
+## Dataset Link
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
